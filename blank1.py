@@ -15,6 +15,9 @@ print(asd+asds)
 wer=69
 
 
+print('Hello my laptop!')
+
+
 
 
 
