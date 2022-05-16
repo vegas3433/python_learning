@@ -2,7 +2,7 @@
 
 
 
-print('Hello my PC!')
+print('Hello my PC from my laptop!')
 
 
 'Some code!'
