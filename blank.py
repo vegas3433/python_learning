@@ -1,8 +1,16 @@
+# ok lets work I guess
 
 
 
 
-print('Hello my PC!')
+
+
+
+
+
+
+
+
 
 
 
